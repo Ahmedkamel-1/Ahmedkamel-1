@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=Ahmedkamel-1&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Developer working on computer"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -73,40 +77,4 @@
 ### 🔹 Tools & DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🍽 POS Restaurant Management System
-- MERN Stack Application  
-- Orders, Tables & Products Management  
-- RESTful REST APIs  
-- Clean MVC Architecture  
-
-🔗 **Repository:**  
-https://github.com/Ahmedkamel-1/pos-restaurant-symstem
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedkamel-1&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkamel-1&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-kamel-034222236/
-- 📧 Email: ahmedkamel555556@gmail.com 
-
----
-
-⭐ Feel free to explore my repositories and give a star if you like my work
+  <img src="https://raw.githubusercontent.com
