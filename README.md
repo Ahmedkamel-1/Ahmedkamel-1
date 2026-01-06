@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Graduated
+- 🎓 Fresh Graduate & Full Stack Developer  
 - 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)  
 - 🐍 Python Developer with **Odoo ERP** experience  
 - 🚀 Learning **NestJS** for scalable backend systems  
@@ -77,4 +77,40 @@
 ### 🔹 Tools & DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍽 POS Restaurant Management System
+- MERN Stack Application  
+- Orders, Tables & Products Management  
+- RESTful APIs  
+- Clean MVC Architecture  
+
+🔗 **Repository:**  
+https://github.com/Ahmedkamel-1/pos-restaurant-symstem
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedkamel-1&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkamel-1&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: *(add your link)*  
+- 📧 Email: *(add your email)*  
+
+---
+
+⭐ Feel free to explore my repositories and give a star if you like my work
