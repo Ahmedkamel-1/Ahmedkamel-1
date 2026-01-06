@@ -9,11 +9,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Fresh Graduate & Full Stack Developer  
-- 💻 Strong experience with **MERN Stack**  
+- 🎓 Computer Science Graduated
+- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)  
 - 🐍 Python Developer with **Odoo ERP** experience  
-- 🚀 Currently learning **NestJS** & scalable backend architectures  
-- 🧠 Passionate about clean code, ERP systems & business logic  
+- 🚀 Learning **NestJS** for scalable backend systems  
+- 🧠 Interested in ERP systems & business logic  
 - 🌍 Open to **Remote / On-site Opportunities**
 
 ---
@@ -51,13 +51,13 @@
 
 ### 🔹 ERP & Odoo Development
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" width="80"/>
-  <img src="https://img.icons8.com/color/48/enterprise-resource-planning.png"/>
 </p>
 
 - 🧩 Odoo Custom Modules Development  
-- 🐍 Python Business Logic  
-- 📦 ERP Concepts: Sales, Inventory, Accounting, HR  
+- 🐍 Python for ERP Business Logic  
+- 📦 ERP Systems (Sales, Inventory, Accounting, HR)  
 - 🔄 Workflow Automation & Reports  
 
 ---
@@ -85,8 +85,8 @@
 ### 🍽 POS Restaurant Management System
 - MERN Stack Application  
 - Orders, Tables & Products Management  
-- RESTful API Architecture  
-- Clean MVC Structure  
+- RESTful REST APIs  
+- Clean MVC Architecture  
 
 🔗 **Repository:**  
 https://github.com/Ahmedkamel-1/pos-restaurant-symstem
@@ -104,9 +104,9 @@ https://github.com/Ahmedkamel-1/pos-restaurant-symstem
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(add your link)*  
-- 📧 Email: *(add your email)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-kamel-034222236/
+- 📧 Email: ahmedkamel555556@gmail.com 
 
 ---
 
-⭐ **Check my repositories and feel free to give a star if you like my work**
+⭐ Feel free to explore my repositories and give a star if you like my work
