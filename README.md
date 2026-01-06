@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Fresh Graduate & Full Stack Developer  
+- 🎓 Computer Science Graduated
 - 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)  
 - 🐍 Python Developer with **Odoo ERP** experience  
 - 🚀 Learning **NestJS** for scalable backend systems  
@@ -108,8 +108,8 @@ https://github.com/Ahmedkamel-1/pos-restaurant-symstem
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(add your link)*  
-- 📧 Email: *(add your email)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-kamel-034222236/
+- 📧 Email: ahmedkamel555556@gmail.com
 
 ---
 
